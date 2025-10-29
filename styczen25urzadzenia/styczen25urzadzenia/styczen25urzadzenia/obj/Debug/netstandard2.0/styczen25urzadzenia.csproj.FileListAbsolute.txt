@@ -1,0 +1,15 @@
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\bin\Debug\netstandard2.0\styczen25urzadzenia.deps.json
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\bin\Debug\netstandard2.0\styczen25urzadzenia.dll
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\bin\Debug\netstandard2.0\ref\styczen25urzadzenia.dll
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\bin\Debug\netstandard2.0\styczen25urzadzenia.pdb
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.csproj.AssemblyReference.cache
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.AssemblyInfoInputs.cache
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.AssemblyInfo.cs
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.csproj.CoreCompileInputs.cache
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.dll
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\refint\styczen25urzadzenia.dll
+C:\repos\egzaminy\styczen25urzadzenia\styczen25urzadzenia\styczen25urzadzenia\obj\Debug\netstandard2.0\styczen25urzadzenia.pdb
