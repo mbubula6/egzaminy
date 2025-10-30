@@ -18,6 +18,15 @@ class Program
 }
 class Urzadzenie
 {
+/*
+  *****************************************************************************
+  nazwa:                Komunikat
+  opis:                 Metoda wypisuje w konsoli podany komunikat.
+  parametry:            komunikat (string) - zawiera komunikat do wyświetlenia
+  zwracany typ i opis:  brak
+  autor:                ja
+  *****************************************************************************
+*/
     public void Komunikat(string komunikat)
     {
         Console.WriteLine(komunikat);
