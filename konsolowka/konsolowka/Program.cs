@@ -3,7 +3,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("hi");
+        Pralka pralka = new Pralka();
+        Odkurzacz odkurzacz = new Odkurzacz();
+        
+        pralka.ustawNumerProgramuPrania(5); //poprawna wartość
+        pralka.ustawNumerProgramuPrania(98); //niepoprawna wartość
+
+        odkurzacz.on();
+        odkurzacz.on();
+        odkurzacz.on();
+        odkurzacz.Komunikat("Odkurzacz wyładował się");
+        odkurzacz.off();
     }
 }
 class Urzadzenie
@@ -21,9 +31,11 @@ class Pralka : Urzadzenie
         if ( danyNumerProgramuPrania > 0 & danyNumerProgramuPrania < 12 )
         {
             numerProgramuPrania = danyNumerProgramuPrania;
+            Komunikat("Program został ustwiony");
         } else
         {
             numerProgramuPrania = 0;
+            Komunikat("Podano niepoprawny numer programu");
         }
         return numerProgramuPrania;
     }
